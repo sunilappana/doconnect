@@ -1,0 +1,22 @@
+.d1{
+    max-width: 20%; 
+    
+    margin-left: 40%;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.d2{
+    display: flex; 
+    justify-content: center; 
+    align-items: center;
+}
+
+.button
+{
+    background-color:#4267B2;
+    margin-top: 5%; 
+    margin-left: 30%
+}
